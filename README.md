@@ -1,5 +1,5 @@
 # Induction-program
-# 🌟 Day 2 Highlights – Date: [Enter Date Here]
+# 🌟 Day 2 Highlights – Date: 1 August 2025
 
 ## 🕘 9:30 AM - 10:30 AM: English Proficiency Test  
 - Participated in the English Proficiency Test  
