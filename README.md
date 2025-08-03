@@ -1,5 +1,5 @@
 # Induction-program
-# 🌟 Day 1 – Induction Program Highlights
+# 🌟 Day 1 Highlights - Date :31 July 2025 
 
 ## 🕣 8:30 AM – 9:30 AM: Shabad Kirtan  
 - Spiritual start to the day with devotional music
@@ -78,6 +78,7 @@
 ---
 
 📌 *Stay inspired. This is just the beginning of your journey at GNDEC!*
+
 # 🌟 Day 2 Highlights – Date: 1 August 2025
 
 ## 🕘 9:30 AM - 10:30 AM: English Proficiency Test  
