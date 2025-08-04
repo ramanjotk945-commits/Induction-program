@@ -115,3 +115,60 @@
 - GitHub basics and markdown writing  
 
 📌 *Excited for the upcoming activities and learning ahead!*
+
+🌟 Day 4 – Induction Program  
+📅 Date: 4th August 2025  
+
+---
+
+## 🧪 9:30 AM – 10:30 AM: Chemistry Lecture  
+**By Prof. Rajvir Kaur**  
+- Overview of the **Chemistry syllabus** and **exam paper pattern**
+- Explained career **opportunities after graduation**
+- Shared insights on **placement scope** for science students
+
+---
+
+## 💻 10:30 AM – 11:30 AM: P2P Lecture by Seniors  
+- Introduction to **C++ Programming Basics**:
+  - Pseudocode  
+  - Variables and their types  
+- Briefed us about different **technical and cultural clubs** in the college and how to join them
+
+---
+
+## 🍽️ 11:30 AM – 12:30 PM: Break  
+- Time to relax and refresh  
+
+---
+
+## 🧠 12:30 PM – 2:30 PM: Expert Lecture on Universal Human Values  
+**By Dr. Priya Darshni Ma'am**  
+- Topic: *"Universal Human Values"*  
+- Discussed important aspects of human life:  
+  - Self-exploration  
+  - Understanding happiness vs. unhappiness  
+  - Excitement, indulgence, depression, escape  
+  - Prosperity and contentment  
+- Explained how to truly understand the **self** and the **human being** as a whole  
+
+---
+
+## 🌌 2:30 PM – 3:30 PM: Session by Causmic Club  
+- Introduction to **Causmic Club**  
+- Shared details of events managed by the club and how students can participate  
+- Seniors performed a **song** 🎶  
+- Two faculty members shared helpful guidance on **choosing the right laptop** for studies and development work
+
+---
+
+## ✅ Key Learnings:  
+- Chemistry career paths & syllabus clarity  
+- Basics of C++ for programming foundation  
+- Life skills and human values for overall well-being  
+- Campus engagement through clubs and events  
+- Smart tech choices for academic success  
+
+---
+
+📌 *Each session today brought value – academically, technically, and personally. Looking forward to Day 5!*
