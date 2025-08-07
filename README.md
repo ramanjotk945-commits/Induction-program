@@ -116,7 +116,7 @@
 
 📌 *Excited for the upcoming activities and learning ahead!*
 
-🌟# Day 4 – Highlights 
+#🌟 Day 4 – Highlights 
 📅 Date: 4th August 2025  
 
 ---
