@@ -413,9 +413,13 @@ It was a blend of spiritual calmness, practical learning, and moral guidance —
 💡 Fun, interactive, and full of new learnings.
 
 📌 What I Learned Today:
+
 •🔖 Variables & Types – How to store and use data in programs.
+
 •🔖 for Loops – Repeating tasks efficiently.
+
 •🔖 for-else Loops – Adding an extra block that runs when the loop finishes without break.
+
 •🔖 ++i vs i++ – The big difference:
 
 ++i (Pre-increment) ➡ Increment first, then use.
