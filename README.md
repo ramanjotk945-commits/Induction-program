@@ -402,9 +402,32 @@ It was a blend of spiritual calmness, practical learning, and moral guidance —
 
 
 
-✅ Closing Note: A productive day with both academic learning and administrative progress.
+✅ Closing Note: A productive day with both academic learning and administrative  progress. 
 
 
 ---
+
+✨ Day 8 – P2P Class by Seniors (3rd-Year Students) ✨
+
+📌 Class Vibes:
+💡 Fun, interactive, and full of new learnings.
+
+📌 What I Learned Today:
+🔖 Variables & Types – How to store and use data in programs.
+🔖 for Loops – Repeating tasks efficiently.
+🔖 for-else Loops – Adding an extra block that runs when the loop finishes without break.
+🔖 ++i vs i++ – The big difference:
+
+++i (Pre-increment) ➡ Increment first, then use.
+
+i++ (Post-increment) ➡ Use first, then increment.
+
+
+📌 Coding Tip:
+💻 for-else is like a polite guest—it only visits the else block if you don’t kick it out early with a break.
+
+
+---
+
 
 
