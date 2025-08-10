@@ -115,8 +115,107 @@
 - GitHub basics and markdown writing  
 
 📌 *Excited for the upcoming activities and learning ahead!*
+Got it — here’s your long, bookmark-style version of Day 3 that’s detailed but still neatly organized for quick reading.
 
-#🌟 Day 3 – Highlights 
+
+---
+
+📖 #Day 3 – College Induction Program
+Date - 2 August 2025
+📍 Venue:
+
+College Auditorium
+
+All students gathered with excitement for the day’s sessions.
+
+
+
+---
+
+🧘 Start of the Day: Mool Mantra & Meditation
+
+The day began with reciting the Mool Mantra.
+
+Meaning went beyond a ritual — it carried the message of unity in diversity.
+
+Reminder: In college, we will meet people from different backgrounds; respect and inclusiveness are our strengths.
+
+Encouraged to face challenges with courage and treat everyone equally.
+
+A short meditation session followed; the entire auditorium was silent.
+
+Students opened their eyes feeling peaceful, relaxed, and calm.
+
+
+
+---
+
+👨‍🏫 Session 1 – Dr. Jaswinder Singh
+
+Well-known and highly respected teacher admired by students worldwide.
+
+Delivered an interactive and inspiring lecture.
+
+Used practical knowledge to make science and mathematics easy to understand.
+
+His personality, teaching style, and energy kept the session engaging.
+
+Even though the session was long, no one felt bored.
+
+Left a deep impression on students; many considered it a dream to attend his session.
+
+
+
+---
+
+👩‍🏫 Session 2 – Dr. Priya Darshini (Universal Human Values)
+
+Focused on lifelong lessons about living in harmony and achieving true happiness.
+
+Main Topics:
+
+Right understanding – Knowing our role and responsibilities in life.
+
+Physical facilities – Resources needed for comfortable living.
+
+Relationships – The importance of bonds with family, friends, and society.
+
+
+Key messages:
+
+Money alone does not bring true happiness.
+
+Moral values, family support, friendships, and good health are equally important.
+
+Life’s ultimate goal: Continuous success with happiness and prosperity.
+
+
+
+
+---
+
+🎯 Final Guidance – HOD Harpreet Kaur
+
+Motivated students to:
+
+Work hard and remain consistent.
+
+Learn new concepts daily.
+
+Attend all important sessions to make the most of the college experience.
+
+
+
+
+---
+
+✨ Closing Note:
+
+Day 3 ended with students feeling motivated, inspired, and enriched with valuable lessons.
+It was a blend of spiritual calmness, practical learning, and moral guidance — an unforgettable part of the induction 
+
+
+#🌟 Day 4 – Highlights 
 📅 Date: 4th August 2025  
 
 ---
