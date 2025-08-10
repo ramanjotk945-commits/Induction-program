@@ -271,3 +271,140 @@ It was a blend of spiritual calmness, practical learning, and moral guidance —
 ---
 
 📌 *Each session today brought value – academically, technically, and personally. Looking forward to Day 5!*
+
+---
+
+📖 Day 5 – College Induction Program
+
+📍 Venue: Classrooms
+
+🗣 English Lecture – Prof. Manjot Kaur
+
+-Warm, welcoming start to college learning.
+
+-Encouraged students to introduce themselves to overcome stage fear.
+
+-Explained first-year syllabus and how it will improve communication skills.
+
+-Made the subject sound exciting and approachable.
+
+-Created a friendly, confidence-boosting atmosphere.
+
+
+📐 Maths Session – Prof. Rajbir Kaur
+
+-Calm and approachable teaching style.
+
+-Focused on basic concepts from 12th grade for revision.
+
+-Encouraged students not to worry — concepts will be built step-by-step.
+
+-Created a stress-free environment for learning Maths in college.
+
+
+🔌 Basics of Electrical & Electronics – Prof. Mandeep Kaur
+
+-Gentle revision of familiar topics — current, voltage, resistance, circuits.
+
+-Linked basics to future advanced topics in the course.
+
+-Clear, calm explanations made the session easy to follow.
+
+
+
+✅ Closing Note: The day ended with a quiet sense of progress and growing confidence.
+
+
+---
+
+📖 Day 6 – College Induction Program
+
+📍 Venue: Workshop Seminar Hall & Auditorium
+
+🤝 Peer-to-Peer Session – Seniors
+
+-Friendly and approachable seniors guided us in C++ basics.
+
+-Covered: writing first program, #include, cout, cin, variables.
+
+-Encouraged questions and shared their own beginner experiences.
+
+-Made programming feel less intimidating and more exciting.
+
+
+💻 CSE Overview – Prof. Jaswant Singh
+
+-Explained that Computer Science is more than coding — covers AI, cybersecurity, networking, data science, etc.
+
+-Shared real-life examples and personal experiences.
+
+-Motivated students to explore different domains in CSE.
+
+
+☕ Break: Relaxed, grabbed snacks, and chatted with friends.
+
+📚 Final Auditorium Lectures
+
+-Formal yet engaging atmosphere.
+
+-Continued building comfort with the new college routine.
+
+
+
+✅ Closing Note: A balanced day of peer learning, expert guidance, and self-reflection.
+
+
+---
+
+📖 Day 7 – College Induction Program
+
+📍 Venue: Auditorium & TCC Seminar Hall
+
+📝 Exam Process – Dr. Randhir Singh
+
+-Explained internal assessments & final exams.
+
+-Stressed importance of consistency, attendance, and preparation.
+
+-Cleared doubts about semester evaluation.
+
+
+📱 Digital Marketing Club – Dr. Amit Kamra
+
+-Introduced hands-on learning in content creation, SEO, social media, branding.
+
+-Inspired students to explore digital marketing as a skill alongside academics.
+
+
+🏏 Sports & Facilities – Dr. Parminder Singh
+
+-Highlighted importance of extracurriculars for balance.
+
+-Encouraged participation in sports, gym, and inter-college tournaments.
+
+
+☕ Break: Time to relax and recharge.
+
+🔌 BEEE Session – Prof. Mandeep Kaur
+
+-Step forward from last class.
+
+-New topics + revision of some 12th-grade basics.
+
+-Simplified complex concepts.
+
+
+🆔 ID Card Formation Process
+
+-Photos clicked, details verified.
+
+-Smooth and organized process.
+
+
+
+✅ Closing Note: A productive day with both academic learning and administrative progress.
+
+
+---
+
+
